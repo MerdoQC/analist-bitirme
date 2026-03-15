@@ -16,24 +16,4 @@ Insight generation
 
 Dashboard visualization
 
-📊 Dataset
 
-The dataset used in this project contains information about student demographics, study habits, and academic performance indicators.
-
-Dataset includes variables such as:
-
-Study time
-
-Parental education
-
-Internet access
-
-Absences
-
-Educational support
-
-Final grades
-
-📂 Dataset Download
-
-https://drive.google.com/file/d/1kWqx2VHr579-Ar4ZQ_Zsqw4T4SyFbju-/view?usp=drive_link
